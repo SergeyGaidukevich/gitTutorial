@@ -1,2 +1,2 @@
-Hello new branch!
+Hello new branch! edit from two_branch
 I'm two branch
